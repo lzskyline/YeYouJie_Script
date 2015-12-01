@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\2015TGPYeyou\2015TGPYeyou\bin\Debug\2015TGPYeyou.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\2015TGPYeyou\2015TGPYeyou\bin\Debug\2015TGPYeyou.exe
+c:\users\admin\documents\visual studio 2015\Projects\2015TGPYeyou\2015TGPYeyou\bin\Debug\2015TGPYeyou.pdb
+c:\users\admin\documents\visual studio 2015\Projects\2015TGPYeyou\2015TGPYeyou\obj\Debug\2015TGPYeyou.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\2015TGPYeyou\2015TGPYeyou\obj\Debug\_2015TGPYeyou.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\2015TGPYeyou\2015TGPYeyou\obj\Debug\_2015TGPYeyou.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\2015TGPYeyou\2015TGPYeyou\obj\Debug\2015TGPYeyou.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\2015TGPYeyou\2015TGPYeyou\obj\Debug\2015TGPYeyou.exe
+c:\users\admin\documents\visual studio 2015\Projects\2015TGPYeyou\2015TGPYeyou\obj\Debug\2015TGPYeyou.pdb
+G:\C#\2015TGPYeyou\2015TGPYeyou\bin\Debug\2015TGPYeyou.exe.config
+G:\C#\2015TGPYeyou\2015TGPYeyou\obj\Debug\2015TGPYeyou.exe
+G:\C#\2015TGPYeyou\2015TGPYeyou\obj\Debug\2015TGPYeyou.pdb
